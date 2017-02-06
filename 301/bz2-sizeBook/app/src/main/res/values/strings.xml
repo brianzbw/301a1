@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bz2-sizeBook</string>
+    <string name="no_name">MUST HAVE A NAME!</string>
+    <string name="hint"><font size="15"> ENTER NAME HERE(MUST HAVE A NAME)</font></string>
+    <string name="Date"><font size="15">Select Date or Enter as yyyy-mm-dd</font></string>
+    <string name="neck"><font size="15">ENTER NECK (INCH)</font></string>
+    <string name="bust"><font size="15">ENTER BUST (INCH)</font></string>
+    <string name="chest"><font size="15">ENTER CHEST (INCH)</font></string>
+    <string name="waist"><font size="15">ENTER WAIST (INCH)</font></string>
+    <string name="hip"><font size="15">ENTER HIP (INCH)</font></string>
+    <string name="inseam"><font size="15">ENTER INSEAM (INCH)</font></string>
+    <string name="commit"><font size="15">ENTER COMMIT</font></string>
+</resources>
